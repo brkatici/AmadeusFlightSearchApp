@@ -1,0 +1,317 @@
+{
+  "flights": [
+    [
+      {
+        "UcusId": "111",
+        "KalkisSaati": "08:15",
+        "InisSaati": "09:30",
+        "Nereden": "LHR",
+        "Nereye": "AMS",
+        "HavaYolu": "British Airways",
+        "UcusSuresi": "1 saat 15 dakika",
+        "UcusKodu": "BA1111",
+        "BiletFiyati": "250 EUR"
+      },
+      {
+        "UcusId": "222",
+        "KalkisSaati": "10:45",
+        "InisSaati": "12:00",
+        "Nereden": "LHR",
+        "Nereye": "AMS",
+        "HavaYolu": "KLM Royal Dutch Airlines",
+        "UcusSuresi": "1 saat 15 dakika",
+        "UcusKodu": "KL2222",
+        "BiletFiyati": "300 EUR"
+      },
+      {
+        "UcusId": "333",
+        "KalkisSaati": "13:30",
+        "InisSaati": "14:45",
+        "Nereden": "LHR",
+        "Nereye": "AMS",
+        "HavaYolu": "Lufthansa",
+        "UcusSuresi": "1 saat 15 dakika",
+        "UcusKodu": "LH3333",
+        "BiletFiyati": "280 EUR"
+      },
+      {
+        "UcusId": "444",
+        "KalkisSaati": "15:00",
+        "InisSaati": "16:15",
+        "Nereden": "LHR",
+        "Nereye": "AMS",
+        "HavaYolu": "Air France",
+        "UcusSuresi": "1 saat 15 dakika",
+        "UcusKodu": "AF4444",
+        "BiletFiyati": "320 EUR"
+      },
+      {
+        "UcusId": "555",
+        "KalkisSaati": "17:30",
+        "InisSaati": "18:45",
+        "Nereden": "LHR",
+        "Nereye": "AMS",
+        "HavaYolu": "Turkish Airlines",
+        "UcusSuresi": "1 saat 15 dakika",
+        "UcusKodu": "TK5555",
+        "BiletFiyati": "380 EUR"
+      },
+      {
+        "UcusId": "666",
+        "KalkisSaati": "09:00",
+        "InisSaati": "10:15",
+        "Nereden": "LHR",
+        "Nereye": "AMS",
+        "HavaYolu": "KLM Cityhopper",
+        "UcusSuresi": "1 saat 15 dakika",
+        "UcusKodu": "KL6666",
+        "BiletFiyati": "290 EUR"
+      },
+      {
+        "UcusId": "777",
+        "KalkisSaati": "11:30",
+        "InisSaati": "12:45",
+        "Nereden": "LHR",
+        "Nereye": "AMS",
+        "HavaYolu": "EasyJet",
+        "UcusSuresi": "1 saat 15 dakika",
+        "UcusKodu": "EJ7777",
+        "BiletFiyati": "220 EUR"
+      },
+      {
+        "UcusId": "888",
+        "KalkisSaati": "14:15",
+        "InisSaati": "15:30",
+        "Nereden": "LHR",
+        "Nereye": "AMS",
+        "HavaYolu": "Ryanair",
+        "UcusSuresi": "1 saat 15 dakika",
+        "UcusKodu": "FR8888",
+        "BiletFiyati": "180 EUR"
+      },
+      {
+        "UcusId": "999",
+        "KalkisSaati": "16:45",
+        "InisSaati": "18:00",
+        "Nereden": "LHR",
+        "Nereye": "AMS",
+        "HavaYolu": "Wizz Air",
+        "UcusSuresi": "1 saat 15 dakika",
+        "UcusKodu": "W69999",
+        "BiletFiyati": "210 EUR"
+      },
+      {
+        "UcusId": "123",
+        "KalkisSaati": "19:30",
+        "InisSaati": "20:45",
+        "Nereden": "LHR",
+        "Nereye": "AMS",
+        "HavaYolu": "Swiss International Air Lines",
+        "UcusSuresi": "1 saat 15 dakika",
+        "UcusKodu": "LX1234",
+        "BiletFiyati": "340 EUR"
+      },
+      {
+        "UcusKodu": "AP701",
+        "HavaYolu": "Wizz Air",
+        "Nereden": "AMS",
+        "KalkisSaati": "16:45",
+        "InisSaati": "18:00",
+        "Nereye": "LHR",
+        "UcusSuresi": "1 saat 15 dakika",
+        "BiletFiyati": "210 EUR"
+      },
+      {
+        "UcusKodu": "CM413",
+        "HavaYolu": "KLM Royal Dutch Airlines",
+        "Nereden": "AMS",
+        "KalkisSaati": "10:45",
+        "InisSaati": "12:00",
+        "Nereye": "LHR",
+        "UcusSuresi": "1 saat 15 dakika",
+        "BiletFiyati": "300 EUR"
+      },
+      {
+        "UcusKodu": "CM591",
+        "HavaYolu": "Swiss International Air Lines",
+        "Nereden": "AMS",
+        "KalkisSaati": "19:30",
+        "InisSaati": "20:45",
+        "Nereye": "LHR",
+        "UcusSuresi": "1 saat 15 dakika",
+        "BiletFiyati": "340 EUR"
+      },
+      {
+        "UcusKodu": "IU140",
+        "HavaYolu": "Air France",
+        "Nereden": "AMS",
+        "KalkisSaati": "15:00",
+        "InisSaati": "16:15",
+        "Nereye": "LHR",
+        "UcusSuresi": "1 saat 15 dakika",
+        "BiletFiyati": "320 EUR"
+      },
+      {
+        "UcusKodu": "MT733",
+        "HavaYolu": "EasyJet",
+        "Nereden": "AMS",
+        "KalkisSaati": "11:30",
+        "InisSaati": "12:45",
+        "Nereye": "LHR",
+        "UcusSuresi": "1 saat 15 dakika",
+        "BiletFiyati": "220 EUR"
+      },
+      {
+        "UcusKodu": "NQ460",
+        "HavaYolu": "KLM Cityhopper",
+        "Nereden": "AMS",
+        "KalkisSaati": "09:00",
+        "InisSaati": "10:15",
+        "Nereye": "LHR",
+        "UcusSuresi": "1 saat 15 dakika",
+        "BiletFiyati": "290 EUR"
+      },
+      {
+        "UcusKodu": "NQ706",
+        "HavaYolu": "British Airways",
+        "Nereden": "AMS",
+        "KalkisSaati": "08:15",
+        "InisSaati": "09:30",
+        "Nereye": "LHR",
+        "UcusSuresi": "1 saat 15 dakika",
+        "BiletFiyati": "250 EUR"
+      },
+      {
+        "UcusKodu": "ON746",
+        "HavaYolu": "Lufthansa",
+        "Nereden": "AMS",
+        "KalkisSaati": "13:30",
+        "InisSaati": "14:45",
+        "Nereye": "LHR",
+        "UcusSuresi": "1 saat 15 dakika",
+        "BiletFiyati": "280 EUR"
+      },
+      {
+        "UcusKodu": "QQ725",
+        "HavaYolu": "Ryanair",
+        "Nereden": "AMS",
+        "KalkisSaati": "14:15",
+        "InisSaati": "15:30",
+        "Nereye": "LHR",
+        "UcusSuresi": "1 saat 15 dakika",
+        "BiletFiyati": "180 EUR"
+      },
+      {
+        "UcusKodu": "QY217",
+        "HavaYolu": "Turkish Airlines",
+        "Nereden": "AMS",
+        "KalkisSaati": "17:30",
+        "InisSaati": "18:45",
+        "Nereye": "LHR",
+        "UcusSuresi": "1 saat 15 dakika",
+        "BiletFiyati": "380 EUR"
+      },
+      
+        {
+          "UcusKodu": "XY123",
+          "HavaYolu": "Turkish Airlines",
+          "Nereden": "IST",
+          "KalkisSaati": "09:30",
+          "InisSaati": "10:45",
+          "Nereye": "ADB",
+          "UcusSuresi": "1 saat 15 dakika",
+          "BiletFiyati": "270 EUR"
+        },
+        {
+          "UcusKodu": "AB456",
+          "HavaYolu": "Pegasus Airlines",
+          "Nereden": "IST",
+          "KalkisSaati": "12:15",
+          "InisSaati": "13:30",
+          "Nereye": "ADB",
+          "UcusSuresi": "1 saat 15 dakika",
+          "BiletFiyati": "220 EUR"
+        },
+        {
+          "UcusKodu": "CD789",
+          "HavaYolu": "AnadoluJet",
+          "Nereden": "IST",
+          "KalkisSaati": "16:00",
+          "InisSaati": "17:15",
+          "Nereye": "ADB",
+          "UcusSuresi": "1 saat 15 dakika",
+          "BiletFiyati": "180 EUR"
+        },
+        {
+          "UcusKodu": "EF101",
+          "HavaYolu": "SunExpress",
+          "Nereden": "IST",
+          "KalkisSaati": "19:45",
+          "InisSaati": "21:00",
+          "Nereye": "ADB",
+          "UcusSuresi": "1 saat 15 dakika",
+          "BiletFiyati": "240 EUR"
+        },
+        {
+          "UcusKodu": "GH202",
+          "HavaYolu": "AtlasGlobal",
+          "Nereden": "IST",
+          "KalkisSaati": "22:30",
+          "InisSaati": "23:45",
+          "Nereye": "ADB",
+          "UcusSuresi": "1 saat 15 dakika",
+          "BiletFiyati": "260 EUR"
+        },
+        {
+            "UcusKodu": "BA987",
+            "HavaYolu": "Pegasus",
+            "Nereden": "ADB",
+            "KalkisSaati": "08:00",
+            "InisSaati": "09:15",
+            "Nereye": "IST",
+            "UcusSuresi": "1 saat 15 dakika",
+            "BiletFiyati": "300 EUR"
+          },
+          {
+            "UcusKodu": "KL654",
+            "HavaYolu": "AtlasJet",
+            "Nereden": "ADB",
+            "KalkisSaati": "11:30",
+            "InisSaati": "12:45",
+            "Nereye": "IST",
+            "UcusSuresi": "1 saat 15 dakika",
+            "BiletFiyati": "280 EUR"
+          },
+          {
+            "UcusKodu": "LH321",
+            "HavaYolu": "AnadoluJet",
+            "Nereden": "ADB",
+            "KalkisSaati": "14:15",
+            "InisSaati": "15:30",
+            "Nereye": "IST",
+            "UcusSuresi": "1 saat 15 dakika",
+            "BiletFiyati": "320 EUR"
+          },
+          {
+            "UcusKodu": "TK987",
+            "HavaYolu": "Turkish Airlines",
+            "Nereden": "ADB",
+            "KalkisSaati": "17:45",
+            "InisSaati": "19:00",
+            "Nereye": "IST",
+            "UcusSuresi": "1 saat 15 dakika",
+            "BiletFiyati": "340 EUR"
+          },
+          {
+            "UcusKodu": "QR123",
+            "HavaYolu": "OnurAir",
+            "Nereden": "ADB",
+            "KalkisSaati": "21:30",
+            "InisSaati": "22:45",
+            "Nereye": "IST",
+            "UcusSuresi": "1 saat 15 dakika",
+            "BiletFiyati": "290 EUR"
+          }
+    ]
+  ]
+}
